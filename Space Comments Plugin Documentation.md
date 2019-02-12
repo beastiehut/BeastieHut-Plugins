@@ -46,7 +46,7 @@ If you mark "Inline Comments" checkbox, you form the table of inline comments.
 
 ## v. 1.4.1 ##
 
-The plugin allows to display the comments of the current page (and its descendets' comments, if selected) in a form of a table.
+The plugin allows to display the comments of the current page (and its descendents' comments, if selected) in a form of a table.
 
 The macro has the following options:
 
