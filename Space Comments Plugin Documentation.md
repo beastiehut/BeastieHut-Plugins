@@ -1,5 +1,9 @@
 # Space Comments Plugin #
 
+## v. 1.7.1 ##
+
+Icons display method changed.
+
 ## v. 1.7.0 ##
 
 Added the ability to control width of each table column (e.g. in pixels or %).
