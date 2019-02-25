@@ -1,5 +1,9 @@
 # Space Comments Plugin #
 
+## v. 1.7.10 ##
+
+Security of web form items availability changed.
+
 ## v. 1.7.1 ##
 
 Icons display method changed.
