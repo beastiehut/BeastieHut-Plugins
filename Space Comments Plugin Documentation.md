@@ -1,5 +1,9 @@
 # Space Comments Plugin #
 
+## v. 1.8.1 ##
+
+Comments lists refactored, icons displayed for i18
+
 ## v. 1.7.10 ##
 
 Security of web form items availability changed.
