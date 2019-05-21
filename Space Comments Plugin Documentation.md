@@ -8,10 +8,10 @@ The macro has the following options:
 * <b>Page Title</b> - select the page from which to display comments
 * <b>Author name</b> - checkbox to display the name of the comment's author
 * <b>Commented content</b> - checkbox to display the commented content of inline comment (for INLINE comments only)
-* <b>Display page title</b> - display the Page Title column with pages from which the comments will be displyed
+* <b>Display page title</b> - display the Page Title column with pages from which the comments will be collected
 * <b>Creation date</b> - checkbox to show the date when the comment was created
-* <b>Date format</b> - specify the format in which the date shpuld be displayed
-* <b>Descendents</b> - checkbox to display the comments from descendent pages, not just one page
+* <b>Date format</b> - specify the format in which the date should be displayed
+* <b>Descendents</b> - checkbox to display the comments from descendent pages
 
 In the following fields you can specify the width of the corresponding column:
 
