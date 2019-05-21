@@ -15,11 +15,11 @@ The macro has the following options:
 
 In the following fields you can specify the width of the corresponding column:
 
-<b>Commented content column width</b>
-<b>Author column width</b>
-<b>Comment column width</b>
-<b>Is Resolved column width</b>
-<b>Page title column width</b>
-<b>Date column width</b>
+* <b>Commented content column width</b>
+* <b>Author column width</b>
+* <b>Comment column width</b>
+* <b>Is Resolved column width</b>
+* <b>Page title column width</b>
+* <b>Date column width</b>
 
 You can specify the width in pixels or percentage.
