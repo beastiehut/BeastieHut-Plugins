@@ -1,4 +1,11 @@
-The plugin allows to display the comments of the current page (and, and its descendents' comments, if selected) in a form of a table.
+The plugin allows to display the comments of the current page (and, and its descendents' comments, if selected) in a form of a table and also page attachments' comments as a table.
+
+It has 2 macros:
+
+* Pages Comments
+* Attachments comments
+
+## Pages Comments ##
 
 The macro has the following options:
 
@@ -15,6 +22,8 @@ The macro has the following options:
 
 In the following fields you can specify the width of the corresponding column:
 
+You can specify the width in pixels or percentage.
+
 * <b>Commented content column width</b>
 * <b>Author column width</b>
 * <b>Comment column width</b>
@@ -22,4 +31,16 @@ In the following fields you can specify the width of the corresponding column:
 * <b>Page title column width</b>
 * <b>Date column width</b>
 
+
+
+## Attachments Comments ##
+
 You can specify the width in pixels or percentage.
+
+* <b>Author</b> - checkbox to display the name of the comment's author
+* <b>Date</b> - checkbox to show the date when the comment was created
+* <b>Date format</b> - specify the format in which the date should be displayed
+* <b>Comment column width</b>
+* <b>Attachment column width</b>
+* <b>Author column width</b>
+* <b>Date column width</b>
