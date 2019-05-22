@@ -35,11 +35,12 @@ You can specify the width in pixels or percentage.
 
 ## Attachments Comments ##
 
-You can specify the width in pixels or percentage.
-
 * <b>Author</b> - checkbox to display the name of the comment's author
 * <b>Date</b> - checkbox to show the date when the comment was created
 * <b>Date format</b> - specify the format in which the date should be displayed
+
+You can specify the width in pixels or percentage.
+
 * <b>Comment column width</b>
 * <b>Attachment column width</b>
 * <b>Author column width</b>
