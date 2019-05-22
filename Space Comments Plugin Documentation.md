@@ -1,3 +1,5 @@
+# Space Comments plugin #
+
 The plugin allows to display the comments of the current page (and, and its descendents' comments, if selected) in a form of a table and also page attachments' comments as a table.
 
 It has 2 macros:
@@ -30,8 +32,6 @@ You can specify the width in pixels or percentage.
 * <b>Is Resolved column width</b>
 * <b>Page title column width</b>
 * <b>Date column width</b>
-
-
 
 ## Attachments Comments ##
 
