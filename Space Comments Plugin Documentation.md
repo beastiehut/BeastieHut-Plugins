@@ -35,7 +35,11 @@ You can specify the width in pixels or percentage.
 
 ## Attachments Comments ##
 
+* <b>Space</b> - select the space with necessary page
+* <b>Page Title</b> - select the necessary page from the correct space
+
 * <b>Author</b> - checkbox to display the name of the comment's author
+* <b>Page name</b> - checkbox to display the name of the page with attachments' comments
 * <b>Date</b> - checkbox to show the date when the comment was created
 * <b>Date format</b> - specify the format in which the date should be displayed
 
@@ -45,3 +49,4 @@ You can specify the width in pixels or percentage.
 * <b>Attachment column width</b>
 * <b>Author column width</b>
 * <b>Date column width</b>
+* <b>Page Name column width</b>
