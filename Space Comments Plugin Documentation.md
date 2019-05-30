@@ -26,7 +26,7 @@ The macro has the following options:
 
 In the following fields you can specify the width of the corresponding column:
 
-You can specify the width in pixels or percentage.
+You can specify the width in pixels or percentage for these columns:
 
 * <b>Commented content column width</b>
 * <b>Author column width</b>
@@ -34,6 +34,8 @@ You can specify the width in pixels or percentage.
 * <b>Is Resolved column width</b>
 * <b>Page title column width</b>
 * <b>Date column width</b>
+
+Example : "120", "120px", "24%"
 
 ## Attachments Comments ##
 
@@ -45,10 +47,12 @@ You can specify the width in pixels or percentage.
 * <b>Date</b> - checkbox to show the date when the comment was created
 * <b>Date format</b> - specify the format in which the date should be displayed
 
-You can specify the width in pixels or percentage.
+You can specify the width in pixels or percentage for these columns:
 
 * <b>Comment column width</b>
 * <b>Attachment column width</b>
 * <b>Author column width</b>
 * <b>Date column width</b>
 * <b>Page Name column width</b>
+
+Example : "120", "120px", "24%"
