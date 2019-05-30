@@ -9,9 +9,11 @@ It has 2 macros:
 
 ## Pages Comments ##
 
+By default the macro shows simple comments.
+
 The macro has the following options:
 
-* <b>Show INLINE comments</b> - if switched on, the inline comments will be displayed, not simple
+* <b>Show INLINE comments</b> - if switched on, the inline comments will be displayed instead of simple
 * <b>Inline comments type</b> - If <b>Show INLINE comments</b> is selected, you can set here if you want to see all, just Resolved or just Unresolved inline comments
 * <b>Space Key</b> - select the space where the page to display the comments from, is located
 * <b>Page Title</b> - select the page from which to display comments
