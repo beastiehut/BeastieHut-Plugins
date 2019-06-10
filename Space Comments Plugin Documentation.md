@@ -39,7 +39,7 @@ Example : "120", "120px", "24%"
 
 ## Attachments Comments ##
 
-* Show Inline comments - Display Inline comments of attachments, not simple ones
+* <b>Show Inline comments</b> - Display Inline comments of attachments, not simple ones
 
 * <b>Space</b> - select the space with necessary page
 * <b>Page Title</b> - select the necessary page from the correct space
