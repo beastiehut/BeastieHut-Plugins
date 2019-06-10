@@ -1,6 +1,6 @@
 # Space Comments plugin #
 
-The plugin allows to display the comments of the current page (and, and its descendents' comments, if selected) in a form of a table and also page attachments' comments as a table.
+The plugin allows to display the comments (simple and inline) of the current page (and, and its descendents' comments, if selected) in a form of a table and also page attachments' comments (simple and inline) as a table.
 
 It has 2 macros:
 
@@ -38,6 +38,8 @@ You can specify the width in pixels or percentage for these columns:
 Example : "120", "120px", "24%"
 
 ## Attachments Comments ##
+
+* Show Inline comments - Display Inline comments of attachments, not simple ones
 
 * <b>Space</b> - select the space with necessary page
 * <b>Page Title</b> - select the necessary page from the correct space
