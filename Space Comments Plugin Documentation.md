@@ -7,9 +7,17 @@ It has 2 macros:
 * Pages Comments
 * Attachments comments
 
+The icons in the top right of the page show the count of the comments on current page:
+
+* grey - number of simple comments 
+* yellow - number of inline Unresolved comments
+* green - number of inline Resolved comments
+
+Icons are clickable - by clicking you will go to the first comment of relevant type on current page.
+
 ## Pages Comments ##
 
-By default the macro shows simple comments.
+By default the macro shows simple comments, but you can control the table comments displaying.
 
 The macro has the following options:
 
