@@ -5,7 +5,7 @@ The plugin allows to track all the actions on deleting pages in Confluence. You 
 * Space Deleted Pages menu
 * Admin deleted pages menu
 
-## Space Deleted Pages Details##
+## Deleted Pages Details Space menu ##
 
 Here you can see the list of pages that were deleted in this space.
 
@@ -15,9 +15,12 @@ The following columns are present:
 * <b>Deleted by</b> - user, who deleted page
 * <b>Deletion Time</b> - when the page was deleted
 
-## Deleted Pages Admin Menu ##
+## Deleted Pages Administration Menu ##
 
-Here you can see the list of pages that were deleted in this space.
+Here you can specify the space from drop-down menu to see the list of pages that were deleted in this space.
+
+<b>NOTE!</b>
+<b>Empty Deleted Pages Database</b> button deletes all teh data in the system on deleted pages.
 
 The following columns are present:
 
