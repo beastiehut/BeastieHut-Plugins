@@ -20,7 +20,7 @@ The following columns are present:
 Here you can specify the space from drop-down menu to see the list of pages that were deleted in this space.
 
 <b>NOTE!</b>
-<b>Empty Deleted Pages Database</b> button deletes all teh data in the system on deleted pages.
+<b style="color:blue">Empty Deleted Pages Database</b> button deletes all teh data in the system on deleted pages.
 
 The following columns are present:
 
