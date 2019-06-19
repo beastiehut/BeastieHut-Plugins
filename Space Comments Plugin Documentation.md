@@ -1,4 +1,4 @@
-# Space Comments plugin #
+# Pages and Attachments Comments Report #
 
 The plugin allows to display the comments (simple and inline) of the current page (and, and its descendents' comments, if selected) in a form of a table and also page attachments' comments (simple and inline) as a table.
 
